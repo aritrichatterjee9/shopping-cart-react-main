@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+Deployed in Vercel: at https://tech24.vercel.app/
+
+![image](https://github.com/aritrichatterjee9/shopping-cart-react-main/assets/73156770/915d9fc4-41a6-4ad4-924d-0c1426ecad5d)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
