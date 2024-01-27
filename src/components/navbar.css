@@ -1,0 +1,28 @@
+.navbar {
+  width: 100%;
+  height: 80px;
+  background-color: rgb(6, 33, 65);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px; /* Add padding to the left and right */
+}
+
+.links {
+  display: flex;
+  align-items: center;
+}
+
+.links a {
+  text-decoration: none;
+  color: rgb(202, 118, 22);
+  margin-left: 20px;
+  font-size: 18px; /* Adjusted font size for better readability */
+  font-weight: bold; /* Added font-weight for emphasis */
+  transition: color 0.3s ease; /* Smooth transition on color change */
+
+  /* Optional: Add a glow effect on hover */
+  &:hover {
+    color: #ffcc00; /* Change to the desired glow color */
+  }
+}
